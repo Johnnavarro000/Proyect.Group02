@@ -1,1 +1,1 @@
-"# Proyect.Group02" 
+"# Proyect.POO.Group" 
